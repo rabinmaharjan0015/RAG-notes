@@ -1,0 +1,1 @@
+"""RAG Note backend package."""

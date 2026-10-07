@@ -1,0 +1,27 @@
+{
+  "name": "rag-note-frontend",
+  "version": "2.0.0",
+  "description": "RAG Note - Document Upload & Q&A UI",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-markdown": "^8.0.7",
+    "remark-gfm": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "vite": "^4.5.0"
+  }
+}
